@@ -7,7 +7,7 @@
 .skill-tree .skill-card .icon{width:76px;height:76px;margin-bottom:38px;background:#0d0d0b;border-color:rgba(222,199,150,.25);transition:.4s}.skill-tree .skill-card:hover .icon{transform:translateY(-5px) scale(1.08);box-shadow:0 0 30px rgba(222,199,150,.15)}
 .skill-tree .skill-card .icon img{width:43px;height:43px}.skill-tree .skill-card.dsa{}
 .graduation-hero:before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 25% 55%,rgba(222,199,150,.08),transparent 34%),radial-gradient(circle at 85% 20%,rgba(255,255,255,.04),transparent 30%);pointer-events:none}
-.final-footer{position:relative;min-height:460px;padding:330px 6vw 28px;display:flex;justify-content:space-between;overflow:hidden;background:#080807}.footer-grad{position:absolute;inset:0;background:linear-gradient(rgba(8,8,7,.72),rgba(8,8,7,.9)),url("graduation.jpg") center 48%/cover no-repeat;filter:grayscale(100%);opacity:.42;z-index:0}.final-footer span{position:relative;z-index:1}
+.final-footer{position:relative;min-height:460px;padding:330px 6vw 28px;display:flex;justify-content:space-between;overflow:hidden;background:#080807}.footer-grad{position:absolute;inset:0;background:linear-gradient(rgba(8,8,7,.72),rgba(8,8,7,.9)),url(backgroundg.jpg") center 48%/cover no-repeat;filter:grayscale(100%);opacity:.42;z-index:0}.final-footer span{position:relative;z-index:1}
 @media(max-width:1100px){.skill-tree{grid-template-columns:repeat(3,1fr)}.skill-tree:before,.skill-tree:after{display:none}.skill-tree .skill-card:after,.skill-tree .skill-card:before{display:none}}
 @media(max-width:700px){.skill-tree{grid-template-columns:1fr 1fr}.code-line{font-size:13px}.final-footer{min-height:360px;padding-top:255px;flex-direction:column;gap:10px}}
 
